@@ -1,5 +1,5 @@
 # 💲 Digit-Recognize ❄️  
-1. 💻 pip installing libs
+1. 💻 pip installing libs  
   ``` pip install matplotlib numpy  ```
 2. 🎁 init the main file ⛓️  
   ```
@@ -15,4 +15,5 @@
 ```
 4. 🍩 Run network script 🎧  
   ```
-    print(run.format(run.ask(q)))  ```      
+    print(run.format(run.ask(q)))
+```      
