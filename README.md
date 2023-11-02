@@ -1,2 +1,3 @@
 # Digit-Recognize
-Recognize digits
+# pip installing libs
+pip install matplotlib numpy
