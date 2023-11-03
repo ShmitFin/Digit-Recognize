@@ -1,4 +1,6 @@
 # 💲 Digit-Recognize ❄️  
+
+# Usage guide
 1. 💻 pip installing libs  
   ``` pip install matplotlib numpy  ```
 2. 🎁 init the main file ⛓️  
