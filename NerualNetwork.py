@@ -196,6 +196,9 @@ class LossCounter():
         
 
 if __name__=="__main__":
+    
+    pass
+    '''
     import Interface
     import matplotlib.pyplot as plt
     #import customnums
@@ -207,10 +210,10 @@ if __name__=="__main__":
     run.SetLoadType("Load","network")
     os.system("color 7")
     test = Perceptron()
-    '''a = Perceptron()
+    a = Perceptron()
     a.educustom(5,a.numers)
     a.educustom(5,test.nums)
-    print(a.perdict("111100111001111")) '''
+    print(a.perdict("111100111001111")) 
     #print(test.nums[4])
     #print(run.ask(q))
 
@@ -253,3 +256,4 @@ if __name__=="__main__":
     plt.show()
     #print(run.NetWork[1].weights)
     #test.show()
+'''

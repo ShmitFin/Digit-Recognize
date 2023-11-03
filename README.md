@@ -3,7 +3,7 @@
   ``` pip install matplotlib numpy  ```
 2. 🎁 init the main file ⛓️  
   ```
-    import NetWork  
+    import NerualNetwork  
     root = NetWork.Programm()  
     root.SetLoadType("Load","<namefile>")
 ```
