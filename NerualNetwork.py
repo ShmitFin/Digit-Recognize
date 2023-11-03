@@ -1,6 +1,6 @@
 import numpy
 import random,os
-from numba import njit, jit
+#from numba import njit, jit
 import ColorNetWork as ColorNetWork
 os.system("color 2")
 print(''' 
